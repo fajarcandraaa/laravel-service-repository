@@ -1,1 +1,1 @@
-# DLabs
+# Laravel with service-repository pattern
