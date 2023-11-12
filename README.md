@@ -19,7 +19,7 @@ The idea of the Repository and Service pattern are to keep the business logic (s
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [PHP] (https://www.php.net)
+* [PHP](https://www.php.net)
 * [Laravel](https://laravel.com)
 * [PostgreSQL](http://www.postgresql.org)
 
